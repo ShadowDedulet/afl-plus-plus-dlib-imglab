@@ -1,0 +1,32 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>ing faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<images>
+  <image file='270.jpg' width='500' height='332'>
+    <box top='181' left='274' width='52' height='53'/>
+    <box top='196' left='55' width='44' height='44'/>
+    <box top='166' left='146' width='37' height='37'/>
+    <box top='55' left='329' width='44' height='44'/>
+dth='75' height='76'/>
+   3' width='44' height='44'/>
+    <box top='86' left='178' width='37' height='37'/>
+  </image>
+  <image file='2008_0g' width='500' height='375'>
+    <box top='78' left='329' width='109' height='109'/>
+    <box top='95' left='224' width='91' height='91'/>
+    <box top='65' op='74' left='233' widtleft='125' width='90' height='91'/>
+  </image>
+  <image file='2008_pg' width='480' height='438'>
+    <Dox top='230' left='206' w='37' height='37'/>
+    <box top='118' left='162' width='37' height='37'/>
+    <box top='82' left='190' width='37' height='37'/>
+    <box top='78' left='326' width='37' height='37'/>
+    <box top='98' left='222' width='37' height='37'/>
+    <box top='86' left='110' width='37' height='37'/>
+    <box top='102' left='282' width='37' height='37'/>
+  </image>
+  <image file='200.jpg' width='500' height='334'>
+    <box top='62' left='226' width='3'44'/>
+ 

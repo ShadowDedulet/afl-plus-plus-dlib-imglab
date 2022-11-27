@@ -1,0 +1,13 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>faces</name>
+<comment>Th</comment>
+<images>
+  <image file='270.jpg' †='500' height='332'>
+    <box top='181' left='274' width='52' height='53'/>
+    <box top='156' left='55' width='44' height='44'/>
+ th='63' height='63'/>
+ </image>
+</images>
+</dataset>

@@ -1,0 +1,10 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>Testing faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<images>
+  <image file='270.jpg' width='500' height='332'>
+    <box top='181' left='274' width='52' heighth='37' height='37'/>
+  </' th='37' height='37'/>
+  

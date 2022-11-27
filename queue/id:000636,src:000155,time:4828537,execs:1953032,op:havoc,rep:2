@@ -1,0 +1,23 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>Testing faces</name>
+<comment>These are imagAL VOC 2011 dataset.</comment>
+<images>
+  <image file='270.jpg' widt†='500' height='332'>
+ left='274' width='52' height='53'/>
+    <box top='156' left='55' width='44' height='44'/>
+    <box top='166' left='146' width='37' height='37'/>
+    ='44'/>
+    <box top='130' left='262' width='37' height='37'/>
+    <box top='134' left='366' width='37' height='37'/>
+    <box top='122' left='314' width='37' height='37'/>
+    <box top='141' left='107' width='52' height='53'/>
+    <box top='84' left='137' width='44' height='44'/>
+  </image>
+  <image file='2009_00' width='400' height='500'>
+    <box top='46' left='154' width='75' height='76'/>
+    <box top='280' left='266' width='63' height='63'/>
+  </image>
+</images>
+</dataset>

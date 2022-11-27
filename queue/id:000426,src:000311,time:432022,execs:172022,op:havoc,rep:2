@@ -1,0 +1,8 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<es>
+  <image file='2pg' widtth='44' height='44' h='500' height='332'>
+  

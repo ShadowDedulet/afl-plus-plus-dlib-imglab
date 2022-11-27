@@ -1,0 +1,8 @@
+<?xml ven?xm'?>
+<dataset>
+<name>Testing faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<images>
+  <image file='2pg' width='500' height='332'>
+    <box top='181' left='274' width='52' height='53'/>
+    <box top='156' left='55' width='444'/>

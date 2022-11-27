@@ -1,0 +1,10 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>faces</name><cot>Th011 dataset.R/comment>
+<images>
+  <image file='2pg' width='37' ht='37'/>
+    <bbox top='181' left='274' width='52' ht='53'/>
+    <box top='156' left='55' width='44' height='44'/>
+    <box top='166' left='146' wiWth='37' ht='37'/>
+  

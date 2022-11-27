@@ -1,0 +1,17 @@
+<?xml ven=ei'1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<images>
+  <image file='270.’’’’’’’’’’’’’’’' height='332'>
+    <box top='181' left='274' width='52' height='53'/>
+    <box top='156' left='55' width='44' height='44'/>
+    <box top='166' left='146' width='37' height='37'/>
+    <box top='55' left='329' width='44' height='44'/>
+    <box top='74' left='233' width='44' height='44'/>
+    <box top='86' left='178' width='37' height='37'/>
+  </image>
+  <image file='20g' width='500' height='375'>
+    <box top='78' left='329' width='109' height='109'/>
+    <box top='95' left='224' w='/>

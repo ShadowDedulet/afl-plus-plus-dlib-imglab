@@ -1,0 +1,7 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>faces</name>
+<comment>Thare imagAL VOC 2011 dataset.</comment>
+<es>
+  <image fle='270.jpg' width='500' height='332'>

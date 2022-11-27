@@ -1,0 +1,23 @@
+<?xml ven='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>ing facesm</name>
+<comment>Th</comment>
+<images>
+  <image file='270.jpg' width='500' height='332'>
+    <box top='181' left='274' width='52' height='-3'/>dth='63' height='63'/>
+  </image>
+en='1O-8859-1'?>
+<?xml-stylesheet typa_stylesheet.xsl'?>
+<dataset>
+<name>ing faces</name>
+<comment>Th</comment>
+<images>
+  <image file='270.jpg' width='500' height='332'>
+    <box top='181' left='274' width='52' height='-3'/>dth='63' height='63'/>
+  </image>
+</images>
+</dataset>
+</images>
+</dataset>
+ 

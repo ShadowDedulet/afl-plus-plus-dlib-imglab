@@ -1,0 +1,11 @@
+<?xml ve'?>
+<?xmheet typylesheet.xsl'?>
+<dataset>
+<name>faces</name>
+<comment>ThOC 2011 dataset.</comment>
+<es>
+  <image file='2pg' width='500' height='332'>
+    <box top='181' left='274' width='52' height='53'/>
+    <box top='156' left='55' width='44' height='44'/>
+    <box top='' ht=''37'/>
+  
