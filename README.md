@@ -7,7 +7,7 @@
 ## Ход работы
 Для начала был скачан VirtualBox, настроена и запущена ВМ на `Ubuntu 22 lts`. Далее были установлены и обновлены нужные пакеты (ну и конечно же решены конфликты).
 
-Далее установлена AFL++ ([ссылка на репозиторий](https://github.com/AFLplusplus/AFLplusplus) | [инструкция по установке](https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md)).
+Далее установлена AFL++ [ссылка на репозиторий](https://github.com/AFLplusplus/AFLplusplus) ([инструкция по установке](https://github.com/AFLplusplus/AFLplusplus/blob/stable/docs/INSTALL.md)).
 
 Перед выполнением проверили, что `afl` установлен и работает (`/usr/local/bin`) и, опционально, попал в `$PATH`
 ```shell
@@ -20,7 +20,7 @@ cd dlib/tools/imglab
 mkdir build; cd build
 
 # Сгенерируем и соберем
-CC=afl-clang CXX=afl-clang++ ..
+cmake -DCMAKE_C_COMPILER=afl-clang -DCMAKE_CXX_COMPILER=afl-clang++ # Можно добавить флагов, но я не смог разобраться (я просто руби разраб)
 make # (можно добавить `-j n`, где n -число воркеров, однако на виртуальной убунте иногда всплывают проблемы)
 
 # Создадим отдельные папки для инпута и вывода afl. Наполним входные данные тест кейсами
