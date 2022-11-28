@@ -38,3 +38,5 @@ afl-fuzz -i fuzz/image/in -o fuzz/image/out -- ./imglab @@
 ![image](https://user-images.githubusercontent.com/90094191/204144593-963142f8-5881-439c-bd7c-1a1f1a0db8ef.png)
 
 Вывод программы лежит в репозитории (Добавил все, что попало в `fuzz/out/default`)
+
+P.S. из странностей `CPU usage` на хостовой машине не поднимался выше 20%, но afl иногда умудрялся выводить 300-700% использования (виртуалке выделил половину).
